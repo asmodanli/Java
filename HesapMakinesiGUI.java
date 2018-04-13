@@ -21,8 +21,8 @@ import java.awt.event.ActionListener;
 //
 //GUI ile
 
-//İstanbul Üniversitesi Bilgisayar Mühendisliği Bölümü 3. dönem
-//Nesneye Yönelik Programlama dersi final sorusu
+//İstanbul Üniversitesi Bilgisayar Mühendisliği Bölümü 3. dönem Nesneye Yönelik Programlama dersi final sorusu
+//
 
 public class HesapMakinesiGUI extends JFrame implements ActionListener{
     
